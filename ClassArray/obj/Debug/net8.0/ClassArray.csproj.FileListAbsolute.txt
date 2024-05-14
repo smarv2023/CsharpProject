@@ -1,0 +1,15 @@
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\bin\Debug\net8.0\ClassArray.exe
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\bin\Debug\net8.0\ClassArray.deps.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\bin\Debug\net8.0\ClassArray.runtimeconfig.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\bin\Debug\net8.0\ClassArray.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\bin\Debug\net8.0\ClassArray.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\obj\Debug\net8.0\ClassArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\obj\Debug\net8.0\ClassArray.AssemblyInfoInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\obj\Debug\net8.0\ClassArray.AssemblyInfo.cs
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\obj\Debug\net8.0\ClassArray.csproj.CoreCompileInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\obj\Debug\net8.0\ClassArray.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\obj\Debug\net8.0\refint\ClassArray.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\obj\Debug\net8.0\ClassArray.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\obj\Debug\net8.0\ClassArray.genruntimeconfig.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\obj\Debug\net8.0\ref\ClassArray.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ClassArray\obj\Debug\net8.0\ClassArray.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\bin\Debug\net8.0\TestProject7.exe
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\bin\Debug\net8.0\TestProject7.deps.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\bin\Debug\net8.0\TestProject7.runtimeconfig.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\bin\Debug\net8.0\TestProject7.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\bin\Debug\net8.0\TestProject7.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\obj\Debug\net8.0\TestProject7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\obj\Debug\net8.0\TestProject7.AssemblyInfoInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\obj\Debug\net8.0\TestProject7.AssemblyInfo.cs
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\obj\Debug\net8.0\TestProject7.csproj.CoreCompileInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\obj\Debug\net8.0\TestProject7.sourcelink.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\obj\Debug\net8.0\TestProject7.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\obj\Debug\net8.0\refint\TestProject7.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\obj\Debug\net8.0\TestProject7.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\obj\Debug\net8.0\TestProject7.genruntimeconfig.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\TestProject7\obj\Debug\net8.0\ref\TestProject7.dll

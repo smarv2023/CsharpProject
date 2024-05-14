@@ -1,0 +1,15 @@
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\bin\Debug\net8.0\LinqWithObjects.exe
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\bin\Debug\net8.0\LinqWithObjects.deps.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\bin\Debug\net8.0\LinqWithObjects.runtimeconfig.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\bin\Debug\net8.0\LinqWithObjects.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\bin\Debug\net8.0\LinqWithObjects.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\obj\Debug\net8.0\LinqWithObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\obj\Debug\net8.0\LinqWithObjects.AssemblyInfoInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\obj\Debug\net8.0\LinqWithObjects.AssemblyInfo.cs
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\obj\Debug\net8.0\LinqWithObjects.csproj.CoreCompileInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\obj\Debug\net8.0\LinqWithObjects.sourcelink.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\obj\Debug\net8.0\LinqWithObjects.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\obj\Debug\net8.0\refint\LinqWithObjects.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\obj\Debug\net8.0\LinqWithObjects.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\obj\Debug\net8.0\LinqWithObjects.genruntimeconfig.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\LinqWithObjects\obj\Debug\net8.0\ref\LinqWithObjects.dll

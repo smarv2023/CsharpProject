@@ -1,0 +1,15 @@
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\obj\Debug\net8.0\PersonsAndPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\obj\Debug\net8.0\PersonsAndPets.AssemblyInfoInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\obj\Debug\net8.0\PersonsAndPets.AssemblyInfo.cs
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\obj\Debug\net8.0\PersonsAndPets.csproj.CoreCompileInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\obj\Debug\net8.0\PersonsAndPets.sourcelink.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\bin\Debug\net8.0\PersonsAndPets.exe
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\bin\Debug\net8.0\PersonsAndPets.deps.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\bin\Debug\net8.0\PersonsAndPets.runtimeconfig.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\bin\Debug\net8.0\PersonsAndPets.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\bin\Debug\net8.0\PersonsAndPets.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\obj\Debug\net8.0\PersonsAndPets.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\obj\Debug\net8.0\refint\PersonsAndPets.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\obj\Debug\net8.0\PersonsAndPets.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\obj\Debug\net8.0\PersonsAndPets.genruntimeconfig.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\PersonsAndPets\obj\Debug\net8.0\ref\PersonsAndPets.dll

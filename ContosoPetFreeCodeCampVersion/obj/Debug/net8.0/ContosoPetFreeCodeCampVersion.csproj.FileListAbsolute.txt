@@ -1,0 +1,15 @@
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\bin\Debug\net8.0\ContosoPetFreeCodeCampVersion.exe
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\bin\Debug\net8.0\ContosoPetFreeCodeCampVersion.deps.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\bin\Debug\net8.0\ContosoPetFreeCodeCampVersion.runtimeconfig.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\bin\Debug\net8.0\ContosoPetFreeCodeCampVersion.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\bin\Debug\net8.0\ContosoPetFreeCodeCampVersion.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\obj\Debug\net8.0\ContosoPetFreeCodeCampVersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\obj\Debug\net8.0\ContosoPetFreeCodeCampVersion.AssemblyInfoInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\obj\Debug\net8.0\ContosoPetFreeCodeCampVersion.AssemblyInfo.cs
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\obj\Debug\net8.0\ContosoPetFreeCodeCampVersion.csproj.CoreCompileInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\obj\Debug\net8.0\ContosoPetFreeCodeCampVersion.sourcelink.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\obj\Debug\net8.0\ContosoPetFreeCodeCampVersion.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\obj\Debug\net8.0\refint\ContosoPetFreeCodeCampVersion.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\obj\Debug\net8.0\ContosoPetFreeCodeCampVersion.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\obj\Debug\net8.0\ContosoPetFreeCodeCampVersion.genruntimeconfig.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetFreeCodeCampVersion\obj\Debug\net8.0\ref\ContosoPetFreeCodeCampVersion.dll

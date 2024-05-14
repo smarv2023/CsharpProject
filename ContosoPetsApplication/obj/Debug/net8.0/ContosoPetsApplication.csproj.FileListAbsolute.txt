@@ -1,0 +1,15 @@
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\bin\Debug\net8.0\ContosoPetsApplication.exe
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\bin\Debug\net8.0\ContosoPetsApplication.deps.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\bin\Debug\net8.0\ContosoPetsApplication.runtimeconfig.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\bin\Debug\net8.0\ContosoPetsApplication.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\bin\Debug\net8.0\ContosoPetsApplication.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\obj\Debug\net8.0\ContosoPetsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\obj\Debug\net8.0\ContosoPetsApplication.AssemblyInfoInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\obj\Debug\net8.0\ContosoPetsApplication.AssemblyInfo.cs
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\obj\Debug\net8.0\ContosoPetsApplication.csproj.CoreCompileInputs.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\obj\Debug\net8.0\ContosoPetsApplication.sourcelink.json
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\obj\Debug\net8.0\ContosoPetsApplication.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\obj\Debug\net8.0\refint\ContosoPetsApplication.dll
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\obj\Debug\net8.0\ContosoPetsApplication.pdb
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\obj\Debug\net8.0\ContosoPetsApplication.genruntimeconfig.cache
+C:\Users\sorom\Desktop\My Student Drive\Programming Language - C# March 2024\C# VS Code\CsharpProject\ContosoPetsApplication\obj\Debug\net8.0\ref\ContosoPetsApplication.dll
